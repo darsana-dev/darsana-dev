@@ -1,100 +1,85 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,100:2563eb&height=200&section=header&text=Devadarsana%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Scalable%20Backend%20Systems%20%7C%20Full-Stack%20Engineering&descAlignY=60&descAlign=50" />
+</p>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Devadarsana R</strong>
-</h1>
-
-<h3>Computer Science Undergraduate | Full-Stack Developer | Backend Systems</h3>
+<h1 align="center">Devadarsana R</h1>
+<p align="center">
+  Software Engineering | Backend Systems | Full-Stack Development
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I’m a Computer Science undergraduate specializing in **Software Engineering, Full-Stack Development, and Backend Systems**.
+Computer Science undergraduate focused on designing scalable backend systems and building production-ready applications using clean, modular architecture.
 
-I focus on building structured, scalable, and maintainable applications with strong fundamentals in:
+Strong foundation in:
 
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
-- RESTful APIs  
-- Clean & Modular Architecture  
-
-I enjoy turning ideas into reliable systems that are efficient, production-ready, and built to scale.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-Python • Java • JavaScript  
-
-### 🌐 Frontend
-HTML5 • CSS3 • React.js • Responsive Design • State Management  
-
-### 🔧 Backend
-REST APIs • CRUD Operations • Authentication • Supabase • Modular Architecture  
-
-### 🗄️ Databases
-SQL • Relational Database Concepts  
-
-### 📊 Data & Analytics
-NumPy • Pandas • Data Cleaning • EDA • Data Visualization  
-
-### 🧰 Tools & Practices
-Git • GitHub • Version Control • Debugging • Agile Collaboration  
+- RESTful API Development  
+- Authentication & Database Integration  
+- Collaborative Git-based workflows  
 
 ---
 
-## 🚀 Projects
+## Technical Stack
 
-### 📝 Full-Stack Note-Taking Application  
+**Languages:** Python, Java, JavaScript  
+**Frontend:** React.js, HTML5, CSS3  
+**Backend:** REST APIs, CRUD Systems, Authentication, Supabase  
+**Database:** SQL, Relational Database Design  
+**Data & Analytics:** Pandas, NumPy, EDA, Data Visualization  
+**Tools:** Git, GitHub, Version Control, Debugging  
+
+---
+
+## Selected Projects
+
+### Full-Stack Note-Taking System  
 **Java • React • Supabase**
 
-- Designed and developed a modular CRUD-based web application  
-- Implemented authentication and real-time database persistence  
-- Applied Object-Oriented Programming principles for scalable backend design  
-- Focused on clean architecture and maintainable code structure  
+Modular CRUD-based web application with authentication and real-time persistence.
+
+- Designed backend logic using OOP principles  
+- Implemented secure authentication workflows  
+- Structured scalable modular architecture  
+- Applied input validation and structured error handling  
 
 ---
 
-### 🌦 Weather Forecast Web Application  
+### Weather Forecast Application  
 **JavaScript • REST APIs**
 
-- Integrated third-party weather APIs using async/await  
-- Built dynamic UI rendering with real-time data updates  
-- Implemented structured error handling and input validation  
+Real-time weather integration system.
+
+- Integrated third-party REST APIs using async/await  
+- Built dynamic UI rendering from API responses  
+- Implemented structured error handling and validation  
 
 ---
 
-### 📊 Data Analytics & Visualization Project  
+### Data Analytics & Visualization  
 **Python • Pandas**
 
-- Performed exploratory data analysis (EDA) on structured datasets  
-- Implemented preprocessing and transformation pipelines  
-- Generated visual insights using statistical analysis techniques  
+Exploratory data analysis pipeline.
+
+- Cleaned and transformed structured datasets  
+- Built preprocessing workflows  
+- Generated statistical insights through data visualization  
 
 ---
 
-## 🌱 Currently Focused On
+## Education
 
-- Advanced Data Structures & Algorithms  
-- Backend System Design  
-- Writing scalable and maintainable code  
-- Strengthening problem-solving skills  
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology — Computer Science & Engineering**  
+Bachelor of Technology — Computer Science & Engineering  
 College of Engineering Chengannur  
 CGPA: 9.55  
 
 ---
 
-## 🔗 Connect With Me
+## Connect
 
-📧 devadarsana06@gmail.com  
-🔗 https://linkedin.com/in/devadarsana-r-creates  
-💻 https://github.com/darsana-dev
+Email: devadarsana06@gmail.com  
+LinkedIn: https://linkedin.com/in/devadarsana-r-creates  
+GitHub: https://github.com/darsana-dev
