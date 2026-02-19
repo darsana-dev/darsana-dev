@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=200&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&animation=twinkling" />
 </p>
 
-<h2 align="center">Devadarsana R</h2>
+<h1 align="center">Hi, I'm Devadarsana 👋</h1>
+
 <p align="center">
   Software Engineering • Full-Stack Development • Clean Architecture
 </p>
@@ -13,18 +14,16 @@
 
 Computer Science undergraduate focused on building structured, maintainable, and production-ready web applications grounded in strong engineering fundamentals.
 
-Core areas of focus:
+I care about:
 
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- RESTful API Design  
-- Authentication & Database Integration  
-- Modular & Scalable Architecture  
-- Collaborative Git Workflows  
+- Writing clean, modular code  
+- Designing scalable systems  
+- Building reliable user-focused products  
+- Strengthening core CS foundations  
 
 ---
 
-## Technical Stack
+## Tech Stack
 
 **Languages**  
 JavaScript • Python • Java  
@@ -33,16 +32,16 @@ JavaScript • Python • Java
 React.js • HTML5 • CSS3 • Responsive Design • State Management  
 
 **Backend**  
-REST APIs • CRUD Systems • Authentication • Supabase  
+REST APIs • Authentication • CRUD Systems • Supabase  
 
 **Databases**  
-SQL Concepts • Relational Database Design  
+SQL Concepts • Relational Design  
 
 **Data & Analytics**  
-Pandas • NumPy • Exploratory Data Analysis • Visualization  
+Pandas • NumPy • EDA • Visualization  
 
 **Tools**  
-Git • GitHub • Version Control • Debugging  
+Git • GitHub • Debugging • Version Control  
 
 ---
 
@@ -51,28 +50,28 @@ Git • GitHub • Version Control • Debugging
 ### Full-Stack Note-Taking Application  
 React • Supabase  
 
-- Built modular CRUD-based architecture  
-- Integrated authentication and real-time persistence  
-- Implemented structured validation and error handling  
-- Focused on clean, maintainable system design  
+- Modular CRUD-based architecture  
+- Authentication & real-time persistence  
+- Structured validation and error handling  
+- Clean and maintainable system design  
 
 ---
 
 ### Weather Forecast Web Application  
 JavaScript • REST APIs  
 
-- Integrated third-party weather APIs using asynchronous workflows  
-- Built dynamic UI rendering from live API responses  
-- Applied structured input validation and exception handling  
+- Integrated third-party APIs using async workflows  
+- Built dynamic UI rendering from live data  
+- Applied structured input validation  
 
 ---
 
-### Data Analytics & Visualization Project  
+### Data Analytics & Visualization  
 Python • Pandas  
 
-- Performed exploratory data analysis on structured datasets  
-- Built preprocessing and transformation pipelines  
-- Generated analytical insights through statistical techniques  
+- Data preprocessing and transformation pipelines  
+- Exploratory data analysis  
+- Statistical insight generation  
 
 ---
 
