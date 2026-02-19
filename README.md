@@ -1,89 +1,91 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=250&section=header&text=Devadarsana%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineering%20%7C%20Scalable%20Web%20Apps&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=200&section=header" />
 </p>
 
-<h2 align="center">Hi 👋 I'm Devadarsana</h2>
+<h2 align="center">Devadarsana R</h2>
 <p align="center">
-  MERN-Focused Developer • Software Engineering Enthusiast • Problem Solver
+  Software Engineering • Full-Stack Development • Clean Architecture
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-Computer Science undergraduate focused on building scalable web applications with modern JavaScript stacks.
+Computer Science undergraduate focused on building structured, maintainable, and production-ready web applications grounded in strong engineering fundamentals.
 
-I design structured, maintainable systems and ship production-ready features — not just prototypes.
-
-Strong foundation in:
+Core areas of focus:
 
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
-- RESTful API Development  
+- RESTful API Design  
 - Authentication & Database Integration  
-- Clean & Modular Architecture  
+- Modular & Scalable Architecture  
+- Collaborative Git Workflows  
 
 ---
 
-## 🧠 Tech Stack
+## Technical Stack
 
-### 💻 Core Languages
-`JavaScript` • `Python` • `Java`
+**Languages**  
+JavaScript • Python • Java  
 
-### 🌐 Frontend
-`React.js` • `HTML5` • `CSS3` • Responsive UI • State Management
+**Frontend**  
+React.js • HTML5 • CSS3 • Responsive Design • State Management  
 
-### ⚙️ Backend
-`Node.js` • `Express.js` • REST APIs • Authentication
+**Backend**  
+REST APIs • CRUD Systems • Authentication • Supabase  
 
-### 🗄️ Databases & BaaS
-`MongoDB` • `Supabase` • SQL Concepts
+**Databases**  
+SQL Concepts • Relational Database Design  
 
-### 🛠 Tools
-`Git` • `GitHub` • Postman • Debugging • Agile Collaboration
+**Data & Analytics**  
+Pandas • NumPy • Exploratory Data Analysis • Visualization  
+
+**Tools**  
+Git • GitHub • Version Control • Debugging  
 
 ---
 
-## 🛠 Featured Projects
+## Selected Projects
 
-### 📝 Full-Stack Note-Taking Application  
-**React • Supabase**
+### Full-Stack Note-Taking Application  
+React • Supabase  
 
 - Built modular CRUD-based architecture  
-- Implemented authentication using Supabase  
-- Integrated real-time database persistence  
-- Designed structured frontend state management  
+- Integrated authentication and real-time persistence  
+- Implemented structured validation and error handling  
+- Focused on clean, maintainable system design  
 
 ---
 
-### 🌦 Weather Forecast Application  
-**React • REST APIs**
+### Weather Forecast Web Application  
+JavaScript • REST APIs  
 
-- Integrated third-party weather APIs using async/await  
-- Built dynamic UI rendering with real-time updates  
-- Implemented structured error handling & validation  
-
----
-
-### 📊 Data Analytics Project  
-**Python • Pandas**
-
-- Data preprocessing and transformation  
-- Exploratory Data Analysis  
-- Visualization of key insights  
+- Integrated third-party weather APIs using asynchronous workflows  
+- Built dynamic UI rendering from live API responses  
+- Applied structured input validation and exception handling  
 
 ---
 
-## 🎓 Education
+### Data Analytics & Visualization Project  
+Python • Pandas  
 
-B.Tech — Computer Science & Engineering  
+- Performed exploratory data analysis on structured datasets  
+- Built preprocessing and transformation pipelines  
+- Generated analytical insights through statistical techniques  
+
+---
+
+## Education
+
+Bachelor of Technology — Computer Science & Engineering  
 College of Engineering Chengannur  
 CGPA: 9.55  
 
 ---
 
-## 📫 Connect
+## Connect
 
-📧 devadarsana06@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/devadarsana-r-creates)  
-💻 [GitHub](https://github.com/darsana-dev)
+Email: devadarsana06@gmail.com  
+LinkedIn: https://linkedin.com/in/devadarsana-r-creates  
+GitHub: https://github.com/darsana-dev
