@@ -79,7 +79,7 @@ Python • Pandas
 
 Bachelor of Technology — Computer Science & Engineering  
 College of Engineering Chengannur  
-CGPA: 9.55  
+CGPA: 9.6  
 
 ---
 
