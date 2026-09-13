@@ -10,7 +10,7 @@ I enjoy turning ideas into working products — from the first prototype to auth
 * Building **AI-powered & full-stack applications**
 * Contributing to **open source**
 * Exploring **AI agents, developer tools, and product engineering**
-* Leading community and developer-relations initiatives at **FOCES**
+* Leading community and developer-relations initiatives 
 
 ### Tech I use
 
